@@ -1,0 +1,101 @@
+{
+  "emplois": [
+    {
+      "id": 1,
+      "titre": "Développeur Full Stack",
+      "description": "Développement d'applications web en React et Node.js pour une startup en pleine croissance.",
+      "salaire": "45 000 - 55 000 € / an",
+      "lieu": "Paris, France",
+      "type_contrat": "CDI",
+      "niveau_experience": "2-4 ans",
+      "secteur": "Technologie",
+      "entreprise": "TechSolutions",
+      "date_creation": "2025-11-10",
+      "date_expiration": "2025-12-10",
+      "avantages": ["Télétravail partiel", "Mutuelle", "Tickets restaurant"],
+      "competences_requises": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "contact": {
+        "email": "recrutement@techsolutions.fr",
+        "telephone": "+33 1 23 45 67 89"
+      }
+    },
+    {
+      "id": 2,
+      "titre": "Data Analyst Junior",
+      "description": "Analyse de données pour des projets internes de visualisation et de reporting.",
+      "salaire": "32 000 - 40 000 € / an",
+      "lieu": "Lyon, France",
+      "type_contrat": "CDD",
+      "niveau_experience": "0-2 ans",
+      "secteur": "Finance",
+      "entreprise": "DataWise",
+      "date_creation": "2025-11-08",
+      "date_expiration": "2025-12-08",
+      "avantages": ["Formation continue", "Tickets restaurant"],
+      "competences_requises": ["SQL", "Python", "Excel", "Tableau"],
+      "contact": {
+        "email": "jobs@datawise.fr",
+        "telephone": "+33 4 78 56 12 34"
+      }
+    },
+    {
+      "id": 3,
+      "titre": "Ingénieur DevOps",
+      "description": "Automatisation des pipelines CI/CD et gestion des infrastructures cloud.",
+      "salaire": "50 000 - 65 000 € / an",
+      "lieu": "Marseille, France",
+      "type_contrat": "CDI",
+      "niveau_experience": "3-5 ans",
+      "secteur": "Informatique",
+      "entreprise": "CloudOps",
+      "date_creation": "2025-11-05",
+      "date_expiration": "2025-12-05",
+      "avantages": ["Remote possible", "Participation", "Mutuelle premium"],
+      "competences_requises": ["Docker", "Kubernetes", "AWS", "Jenkins"],
+      "contact": {
+        "email": "hr@cloudops.io",
+        "telephone": "+33 6 45 23 87 90"
+      }
+    },
+    {
+      "id": 4,
+      "titre": "UX/UI Designer",
+      "description": "Création d’interfaces utilisateurs intuitives pour des applications mobiles et web.",
+      "salaire": "38 000 - 48 000 € / an",
+      "lieu": "Toulouse, France",
+      "type_contrat": "CDI",
+      "niveau_experience": "2-3 ans",
+      "secteur": "Design",
+      "entreprise": "DesignFlow",
+      "date_creation": "2025-11-09",
+      "date_expiration": "2025-12-09",
+      "avantages": ["Matériel Apple", "Abonnement Adobe offert"],
+      "competences_requises": ["Figma", "Sketch", "Adobe XD", "User Research"],
+      "contact": {
+        "email": "design@designflow.fr",
+        "telephone": "+33 5 61 22 78 45"
+      }
+    },
+    {
+      "id": 5,
+      "titre": "Chef de projet IT",
+      "description": "Coordination de projets informatiques en méthode Agile avec équipes pluridisciplinaires.",
+      "salaire": "55 000 - 70 000 € / an",
+      "lieu": "Casablanca, Maroc",
+      "type_contrat": "CDI",
+      "niveau_experience": "5+ ans",
+      "secteur": "Gestion de projets",
+      "entreprise": "InnovaTech",
+      "date_creation": "2025-11-01",
+      "date_expiration": "2025-12-01",
+      "avantages": ["Voiture de fonction", "Assurance santé", "Prime annuelle"],
+      "competences_requises": ["Agile", "Scrum", "Jira", "Confluence"],
+      "contact": {
+        "email": "emploi@innovatech.ma",
+        "telephone": "+212 5 22 34 56 78"
+      }
+    }
+  ]
+}
+
+  
