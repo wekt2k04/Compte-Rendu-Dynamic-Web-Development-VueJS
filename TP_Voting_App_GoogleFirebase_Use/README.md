@@ -2,6 +2,10 @@
 
 Application web temps réel développée pour l'ENSA Safi (TP‑6). Elle permet aux étudiants de s'authentifier et de voter ("Yes" ou "No") pour des événements académiques.
 
+
+## 🌍 Déploiement et mise en ligne
+L'application est hébergée sur Firebase Hosting et accessible à l'adresse suivante : `https://ensa-vote-app.web.app/`
+
 ## 📋 Fonctionnalités
 
 - **Authentification sécurisée** : inscription et connexion via Firebase Authentication (email/mot de passe).  
