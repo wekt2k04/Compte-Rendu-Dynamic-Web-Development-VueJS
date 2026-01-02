@@ -1,4 +1,4 @@
-# 🚀 ProjectManager
+# ProjectManager
 
 Real-time collaborative task management application (Trello style).
 Developed with **Vue 3 (Composition API)**, **Vite**, **Pinia**, and **Firebase**.
